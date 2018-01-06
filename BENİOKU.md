@@ -1,15 +1,47 @@
-# Ödev-2 Yönergeleri 
-1. Odev2'yi grup hesabınıza fork ediniz. 
-2. Aşağıdaki açıklamaları izleyerek kendi hesabınıza fork ettiğiniz Odev2'yi değiştiriniz. 
-3. Dosyayı değiştirmek için ya "Github" içindeki 
+                                                          
+                                                      HÜNER (TRICK)
+             
+             ÖZET (ÖDEV-1):
+                                                     HAZIRLAYANLAR
+                                            ÇAPA FEN LİSESİ ÖĞRENCİLERİNDEN;
+                                                9-B | ŞİMAL OR | 533
+                                             9-B | BEYZA ZÜLAL GÖREN | 617
+                                           9-B | RÜVEYDA HÜMA DEMİRCİ | 641
+                                    
+                                        TRİCK (HÜNER, MARİFET, EL ÇABUKLUĞU)
+                                
+                                İYPT  ödevimiz için 1998 yılının 8. Sorusunu seçtik.
+  Soru (İngilizce):  8. Trick
+It is known that a glass filled with water and covered with a sheet of paper may be turned upside down without any loss of water. Find the minimum amount of water to perform the trick successfully.
 
-## Yapılacak İşlemler
-Bu hafta projenizle ilgili olarak deneylere başlayacaksanız. Biran önce deneylere başlamanız, projenizde ortaya 
-çıkabilecek sorunlar hakkında tedbir almanızı sağlayacaktır. Bu hafta basit deney malzemeleri kullanarak deneyinizi
-gerçekteltirmeye çalışın. Önemli olan deneye başlamanızdır. Deneyde başarısız olmanız, notunuzu hiçbir şekilde etkilemeyecektir.
-Hatta başarısız olmanız doğaldır. Belki de birkaç kere başarısız olacaksınız. Ama sonunda başaracaksınız. Edison'u örnek alın; 
-Edison ampülü bulmak için en az 1000 kere başarısız oldu. Bir gazeteci "Bin kere nasıl başarısız oldunuz?" diye sorduğunda, 
-Edison: "Ben bin kere başarısız olmadım; ampülü bulmak 1000 adımda oldu" diye cevaplamıştır. 
+Deneyin Amacı: Ağzı kağıt ile kapatılmış içi su ile dolu bir bardağı ters çevirdiğimizde bir damla su bile akmadan kağıdın bardağa tutunmasını sağlayacak minimum su miktarını bulmaktır.
 
-1. Ödev-2 içinde örnek bir **Materyal ve Yöntem** bölümü bulacaksınız. Sizin yaptığınız deneyi tekrar etmek isteyen bir kişi, bu kısımdaki *materyal ve yöntemleri* kullanarak sizin yaptığınız deney sonuçlarına ulaşabilmeledir. Unutmayın ki deney tekrar edilebilir olmalıdır. Bunun için sizin raporunuzu okuyan bir kişi, bu çalışmanızı tekrar edebilmelidir. 
-2. Yaptığınız çalışmaların foğtaraflarını ve videolarınızı çekmeniz gerekecek. Gerektiğinde çizimler yapacaksınız. Odev2 deposunun içinde "pic" ve "video" diye bir dizin açılmıştır. Deney sırasında çektiğiniz resimler, deney grafiklerini "pic" dizini içinde saklayacaksınız. Çektiğiniz video'ları ise "video" dizini içinde saklayacaksınız. 
+Deneyin Yöntemi: Bardaktaki su miktarı çeşitli miktarlarda olacak şekilde denenip gözlemlenecektir. Su miktarının kağıdın bardağa tutunmasında ne kadar etkili olduğu incelenecektir. Gerekli olan en az su miktarı bulunana kadar denemeler yapılacaktır. Bunları yaparken ailelerimizin bilgi birikimi ve tecrübelerinden, eğer izin verilirse okulumuzun laboratuvar imkanlarından faydalanıp, öğretmenlerimizden yardım almayı düşünüyoruz. 
+
+  Kaynakça:
+* http://archive.iypt.org/problems/ 
+
+                 GİRİŞ
+   Projemizin 2. aşaması olan deneyimizi gerçekleştirdik. Hangi yöntem ve malzemeleri kullanarak yaptığımızı aşağıda anlatacağız.
+   
+           MATERYAL VE YÖNTEM
+     Deneyimizin nasıl olacağı hakkında hemen hemen hepimizin bir fikri vardı. Nasıl yapacağımızı önceden kafamızda tasarlamıştık. Bir de sorumuzu seçerken deneyin yapılabilirliğini araştırmış, materyal ve yöntem açısından imkanlarımıza uygun bir soru seçmiştik. Hepimizin müsait olduğu bir zamanda bir araya gelip deneyimizi takım çalışması ve iş birliği ile yaptık. 
+     Deneyimizi okulumuzun Fizik Laboratuvarında gerçekleştirdik. Burada yapmamızın sebebi hem sessiz hem de malzeme açısından zengin bir ortam olmasıdır.
+           
+                  MALZEMELER:
+                 *Su bardağı
+                 *Kağıt (Her aşama için A4 kağıdının 1/4'ü)
+                 *Dereceli silindirler (Kullanılan su miktarını ölçmek ve bilmek için)
+                 *Şırınga (Çok az miktarda kullanılan suyu-örn:2mL,5mL-ölçmek için)
+                 *Kap (Kullanılan suyu israf etmemek ve deneyde tekrar kullanabilmek için)
+                 *Su 
+     
+    Daha önce de söylediğimiz gibi deneyi grubumuz kişileri BEYZA ZÜLAL GÖREN, ŞİMAL OR, RÜVEYDA HÜMA DEMİRCİ yaptı. 
+Uygun malzeme ve ortamı buluP sağlamak ve deneyin yapım süresi toplam 1,5 saat sürdü.
+     
+                   YÖNTEM: 
+   İlk önce malzemelerimizi deneyi yapacağımız ortamda bulunan masanın üstüne yerleştirdik. Eksik malzeme olup olmadığına baktık ve malzemelrimiz tamdı. Deneye başlayabilirdik. Sonra ne kadar su kullanacağımıza karar verdik ve bu miktarları malzemelerimizden olan dereceli silindirler yardımıyla ayarladık. Ne kadar su kullandığımızı videomuzda belirttik ve tek tek denedik. 
+   
+           BULGULAR
+    Kesin bir sonuç alamadık.Bu yüzden başarısızlıkla sonuçlandığını söyleyebiliriz. Başarılı olmak için bu deneyi daha hassas ölçüm araçlarıyla ve öğretmenimizden de yardım alarak gerçekleştirmeyi düşünüyoruz.
+         
